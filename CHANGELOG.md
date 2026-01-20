@@ -1,5 +1,12 @@
 # Changelog
 
+## <small>8.0.1 (2026-01-20)</small>
+
+* fix: use urllib v4 (#482) ([fef57f7](https://github.com/cnpm/npminstall/commit/fef57f7)), closes [#482](https://github.com/cnpm/npminstall/issues/482) [hi#level](https://github.com/hi/issues/level)
+* chore: Configure Renovate (#483) ([6d126a6](https://github.com/cnpm/npminstall/commit/6d126a6)), closes [#483](https://github.com/cnpm/npminstall/issues/483)
+* chore(deps): update actions/checkout action to v6 (#485) ([0bb0fd3](https://github.com/cnpm/npminstall/commit/0bb0fd3)), closes [#485](https://github.com/cnpm/npminstall/issues/485)
+* chore(deps): update microsoft/setup-msbuild action to v1.3.3 (#484) ([284b919](https://github.com/cnpm/npminstall/commit/284b919)), closes [#484](https://github.com/cnpm/npminstall/issues/484)
+
 ## 8.0.0 (2026-01-20)
 
 * feat: enable auto release (#481) ([8fed5a6](https://github.com/cnpm/npminstall/commit/8fed5a6)), closes [#481](https://github.com/cnpm/npminstall/issues/481) [hi#level](https://github.com/hi/issues/level)
