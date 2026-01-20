@@ -1,5 +1,26 @@
 # Changelog
 
+## 8.0.0 (2026-01-20)
+
+* feat: enable auto release (#481) ([8fed5a6](https://github.com/cnpm/npminstall/commit/8fed5a6)), closes [#481](https://github.com/cnpm/npminstall/issues/481) [hi#level](https://github.com/hi/issues/level)
+* feat!: npminstall v8 (#479) ([d213d25](https://github.com/cnpm/npminstall/commit/d213d25)), closes [#479](https://github.com/cnpm/npminstall/issues/479) [hi#level](https://github.com/hi/issues/level)
+
+
+### BREAKING CHANGE
+
+* Node.js >= 20
+
+<!-- This is an auto-generated comment: release notes by coderabbit.ai
+-->
+
+## Summary by CodeRabbit
+
+* **Chores**
+* Modified CI workflow to trigger only on master branch, removing
+support for legacy branches
+  * Removed automated CodeQL security analysis workflow
+* Updated release workflow configuration with new NPM release automation
+
 ## [7.12.0](https://github.com/cnpm/npminstall/compare/v7.11.1...v7.12.0) (2023-12-18)
 
 
